@@ -1,0 +1,38 @@
+nav {
+    background-color: lightblue;
+    padding: 20px 20px;
+    width: 200px;
+}
+
+nav li {
+    list-style: none;
+    padding-bottom: 10px;
+}
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color: gray;
+}
+
+a:hover {
+    color: darkblue;
+}
+
+a:active {
+    text-decoration-color: darkblue;
+    color: darkblue;
+}
+
+#logo {
+    color: blue;
+    text-transform: uppercase;
+}
+
+#logo span {
+    text-transform: uppercase;
+    font-weight: 300;
+    color: gray;
+}
